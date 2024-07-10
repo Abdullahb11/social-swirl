@@ -18,3 +18,9 @@ This project implements a basic RESTful API using Node.js and Express to manage 
 - **Express**: A minimal and flexible Node.js web application framework that provides robust routing and middleware features.
 - **JSON**: Data interchange format used for communication between client and server.
 - **Postman**: Uses postman to verify endpoints
+
+##MongoDB 
+
+-Created the connection with mongodb at host mongodb://127.0.0.1:27017
+-Created the schema of the user
+-Modified all the required crud functions
